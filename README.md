@@ -5,4 +5,4 @@ This project is builded on react using the expo framework
 - Install nodejs
 - Install expo cli `npm install --global expo-cli`
 - Install project dependencies by tapping `npm install` on project root
-- Run the project: `npx expo start --web
+- Run the project: `npx expo start --web`
